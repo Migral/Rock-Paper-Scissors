@@ -17,4 +17,4 @@ Cuando quieras reinciar la partida, simplemente haz click en el botón de "Reset
 
 He desarrollado este pequeño juego con fines de aprendizaje. Por favor, si quieres ayudarme a mejorar me puedes enviar un mensaje y decirme que código se puede mejorar, como se podría optimizar o cualquier otra sugerencia que quieras comentarme.
 
-Espero que os guste! 
+Espero que os guste! 👍
