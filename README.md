@@ -13,7 +13,7 @@ Una vez en la pantalla del juego has de pulsar una de las tres figuras. El marca
 Cuando quieras reinciar la partida, simplemente haz click en el botón de "Reset Game".
 <br><br>
 
-<h3>Aclaraciones</h3>
+<h3>Aclaraciones:</h3>
 
 He desarrollado este pequeño juego con fines de aprendizaje. Por favor, si quieres ayudarme a mejorar me puedes enviar un mensaje y comentarme cualquier sugerencia que quieras hacerme, estoy abierto a cualquier tipo de ayuda.
 
